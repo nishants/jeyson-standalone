@@ -1,0 +1,64 @@
+{
+  "name": "jeyson",
+  "version": "1.0.2",
+  "description": "Json template engine",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nishants/jso-ng.git"
+  },
+  "keywords": [
+    "json",
+    "jsong",
+    "jso-ng",
+    "template",
+    "factory",
+    "maker"
+  ],
+  "author": {
+    "name": "nishant"
+  },
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/nishants/jso-ng/issues"
+  },
+  "homepage": "https://github.com/nishants/jso-ng#readme",
+  "dependencies": {
+    "extend": "^3.0.0"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5"
+  },
+  "gitHead": "a3eb4d4a86320e60a88653511062404f90c8e107",
+  "_id": "jeyson@1.0.2",
+  "_shasum": "4490fe59ca2d58b86a911545436132050fa76c70",
+  "_from": "jeyson@1.0.2",
+  "_npmVersion": "2.15.1",
+  "_nodeVersion": "4.4.4",
+  "_npmUser": {
+    "name": "nishants",
+    "email": "nishant.singh87@gmail.com"
+  },
+  "dist": {
+    "shasum": "4490fe59ca2d58b86a911545436132050fa76c70",
+    "tarball": "https://registry.npmjs.org/jeyson/-/jeyson-1.0.2.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "nishants",
+      "email": "nishant.singh87@gmail.com"
+    }
+  ],
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/jeyson-1.0.2.tgz_1470508103810_0.4683045637793839"
+  },
+  "_resolved": "https://registry.npmjs.org/jeyson/-/jeyson-1.0.2.tgz"
+}

@@ -1,0 +1,1 @@
+!function(){var e=require("./compiler"),i=require("./directives");module.exports={compile:function(i,r,n){return e.$compile(i,r,n)},directive:function(e,r){return i.add(e,r)},create:function(){return this}},define("index",function(){}),require(["index","compile"])}();
